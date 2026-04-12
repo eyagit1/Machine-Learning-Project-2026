@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+.ipynb_checkpoints/
+
+# Data (optional — remove the # below if CSV is too large for GitHub)
+# ecocrop_cleaned_data (1).csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
